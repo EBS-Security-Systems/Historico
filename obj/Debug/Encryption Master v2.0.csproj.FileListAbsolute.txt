@@ -1,0 +1,33 @@
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\bin\Debug\Encript Master v2.0.exe.config
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\bin\Debug\Encript Master v2.0.exe
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\bin\Debug\Encript Master v2.0.pdb
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Encryption Master v2.0.csprojAssemblyReference.cache
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Encryption Master v2.0.csproj.ResolveComReference.cache
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Encript_Master_v2._0.frmMultiCriptASCII.resources
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Encript_Master_v2._0.frmPrincipal.resources
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Encript_Master_v2._0.Properties.Resources.resources
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Encryption Master v2.0.csproj.GenerateResource.cache
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Encryption Master v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Encript Master v2.0.exe
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encript Master v2.0\obj\Debug\Encript Master v2.0.pdb
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\bin\Debug\Encript Master v2.0.exe.config
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\bin\Debug\Encript Master v2.0.exe
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\bin\Debug\Encript Master v2.0.pdb
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encryption Master v2.0.csprojAssemblyReference.cache
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encryption Master v2.0.csproj.ResolveComReference.cache
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encript_Master_v2._0.frmMultiCriptASCII.resources
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encript_Master_v2._0.frmPrincipal.resources
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encript_Master_v2._0.Properties.Resources.resources
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encryption Master v2.0.csproj.GenerateResource.cache
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encryption Master v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encript Master v2.0.exe
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encript Master v2.0.pdb
+C:\Users\Ridalva\OneDrive\Documentos\Thiago\My Program Files\Projects\Encription Master v2.0\obj\Debug\Encript_Master_v2._0.frmMultiEncodHashMD5.resources
